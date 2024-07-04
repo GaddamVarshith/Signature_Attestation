@@ -13,7 +13,7 @@ This project is a Flask-based web application for signature verification and ana
 ## Installation
 
 ### Clone the repository:
-     git clone https://github.com/yourusername/signature-verification.git
+     git clone https://github.com/GaddamVarshith/Signature_Attestation.git
      cd signature-Attestation
 
 ### Create a virtual environment and activate it:
