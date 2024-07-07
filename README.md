@@ -8,7 +8,7 @@ This project is a Flask-based web application for signature verification and ana
 -> Preprocessing: Converts images to grayscale, resizes them, and applies binary thresholding.
 -> Feature Extraction: Uses ORB (Oriented FAST and Rotated BRIEF) to extract and match features between the two images.
 -> Match Visualization: Displays the matched features between the two signatures.
--> Stroke Analysis: Extracts strokes and estimates velocity and pressure based on the contours of the signature
+-> Stroke Analysis: Extracts strokes and estimates velocity and pressure based on the contours of the signature.
 
 ## Installation
 
